@@ -1,0 +1,14 @@
+.Carousel {
+    width: 100%;
+    margin: 6px 20% 8px 20%;
+}
+
+.carousel-item {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-inner {
+    border-radius: 25vh;
+}
