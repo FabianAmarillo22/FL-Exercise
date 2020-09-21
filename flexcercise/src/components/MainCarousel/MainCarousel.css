@@ -11,4 +11,5 @@
 
 .carousel-inner {
     border-radius: 25vh;
+    border: 3px solid white;
 }

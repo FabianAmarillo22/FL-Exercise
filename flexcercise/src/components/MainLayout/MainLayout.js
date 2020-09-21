@@ -5,6 +5,7 @@ import Routes from '../routes/Routes';
 import { BrowserRouter as Router } from 'react-router-dom';
 import './MainLayout.css';
 import MainMenu from '../MainMenu';
+import Footer from '../Footer';
 
 export default function MainLayout() {
 
@@ -18,7 +19,7 @@ export default function MainLayout() {
                     <Routes />
                 </Grid.Row>
                 <Grid.Row className='footerRow'>
-                    FOOTER
+                    <Footer />
                 </Grid.Row>
             </Grid>
         </Router>

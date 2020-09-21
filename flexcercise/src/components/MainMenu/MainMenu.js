@@ -62,9 +62,9 @@ function MainMenu(props) {
                     <Menu.Item
                     className='mainMenu_Link'
                     as={ Link }
-                    to='/Contacto'
-                    name='Contacto'
-                    active={activeMenu === '/Contacto'}
+                    to='/Contactos'
+                    name='Contactos'
+                    active={activeMenu === '/Contactos'}
                     onClick={handlerMenu}
                     />
                 </Menu>
