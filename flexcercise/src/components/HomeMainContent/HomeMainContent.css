@@ -1,0 +1,27 @@
+.homeMainContent {
+    color: white;
+    margin: auto;
+    font-variant: petite-caps;
+    font-size: 16px;
+    background-color: rgb(27, 28, 29);
+    border: white solid 2px;
+    margin: 1.5% 2.5%;
+    border-radius: 50px 50px;
+}
+
+.ui.divider.homeDivider{
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: white;
+}
+
+p.homeMainText {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+p.homeMainTitle {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
